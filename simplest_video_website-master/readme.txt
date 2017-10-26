@@ -1,12 +1,10 @@
 最简单的视频网站
 Simplest Video Website
 
-雷霄骅 Lei Xiaohua
+本项目是在大神雷霄骅的简单视频网站的基础上进行改编的，对直播的平台进行了转流操作
 
-leixiaohua1020@126.com
-中国传媒大学/数字电视技术
-Communication University of China / Digital TV Technology
-http://blog.csdn.net/leixiaohua1020
+
+
 
 本程序是一个最简单的视频网站视频。它支持
 1.直播
